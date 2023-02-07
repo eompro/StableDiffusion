@@ -1,0 +1,9 @@
+diffusers
+ftfy==6.1.1
+transformers==4.25.1
+torch==1.13.1+cu116
+Pillow==7.1.2
+accelerate==0.12.0
+scipy==1.10.0
+xformers==0.0.13
+git+https://github.com/huggingface/diffusers.git#egg=diffusers
